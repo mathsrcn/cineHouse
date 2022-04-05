@@ -1,0 +1,20 @@
+[
+    {
+        "codigo": 1,
+        "titulo":"tropa de elite",
+        "duracao": 1.40,
+        "atores": ["Matheus","Ronald","Costa"
+        ],
+        "anoDeLancamento": 2000,
+        "emCartaz": true
+    },
+    {
+        "codigo": 2,
+        "titulo":"interestelar",
+        "duracao": 3.10,
+        "atores": ["Matthew McConaughey", "Matt Damon", "Anne Hathaway"
+        ],
+        "anoDeLancamento": 2014,
+        "emCartaz": false 
+}]
+ 
